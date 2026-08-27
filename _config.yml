@@ -1,4 +1,4 @@
-remote_theme: "zerostaticthemes/jekyll-serif-theme"
+remote_theme: "daattali/beautiful-jekyll"
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
